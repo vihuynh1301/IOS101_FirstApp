@@ -31,6 +31,39 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+**Favorite Applications and Features:**
+App: Notion
+Highlight & Notes: Users can highlight text and make notes, which can be revisited and exported.
+Adjustable Text & Background: Offers different background colors and font sizes to enhance reading experience based on lighting conditions and personal preference.
+
+App: Duolingo
+Streak Count & Rewards: Encourages daily usage and learning through a streak system and earning rewards.
+Bite-Sized Lessons: Makes language learning manageable by breaking down topics into small, interactive lessons.
+
+App: Airbnb
+Interactive Maps: Users can see the exact location of listings in relation to landmarks and amenities.
+Experience Section: Beyond just accommodations, Airbnb offers local experiences, from cooking classes to tours, allowing travelers to immerse themselves more in their destination.
+
+App: Instagram
+Texting Effects: Users can select various effects to send with texts, such as gift boxes or burned text boxes.
+Deletion and Removal: Messages can be deleted on one account, and removed from both accounts while in conversation.
+
+**App Idea - "PlantBuddy": A Plant Care Companion**
+
+Description:
+For those with green thumbs and those without, PlantBuddy is a friendly guide to plant care. Whether you’re growing basil on your windowsill or nurturing a rare orchid, PlantBuddy reminds you to water, fertilize, and care for your plants based on their specific needs, ensuring they thrive and brighten up your living space.
+
+Features:
+Plant Profile: Create a profile for each plant, inputting its type (either by selecting from a list or entering manually), the date you acquired it, and uploading a photo.
+
+Watering Reminders: Based on the type of plant, the app sends friendly reminders about watering. Users can adjust the frequency based on their observations and the plant's condition.
+
+Fertilizing and Repotting Alerts: Not all plants need frequent fertilizing or repotting, but when they do, the app sends timely alerts.
+
+Sunlight Tracker: Using the phone's location, the app can remind users to move their plants to shadier spots or provide more sunlight depending on the plant's requirements.
+
+Plant Health Diagnostics: Upload a photo of a plant that seems to be in distress, and the app will provide basic diagnostics and care suggestions based on visible symptoms.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
